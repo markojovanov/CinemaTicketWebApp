@@ -1,0 +1,9 @@
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\obj\Debug\netcoreapp3.1\CinemaTicket.Domain.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\obj\Debug\netcoreapp3.1\CinemaTicket.Domain.AssemblyInfo.cs
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\obj\Debug\netcoreapp3.1\CinemaTicket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\bin\Debug\netcoreapp3.1\CinemaTicket.Domain.deps.json
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\bin\Debug\netcoreapp3.1\CinemaTicket.Domain.dll
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\bin\Debug\netcoreapp3.1\CinemaTicket.Domain.pdb
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\obj\Debug\netcoreapp3.1\CinemaTicket.Domain.dll
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\obj\Debug\netcoreapp3.1\CinemaTicket.Domain.pdb
+C:\Users\Marko\Desktop\CinemaTicketWebApplication\CinemaTicket\CinemaTicket.Domain\obj\Debug\netcoreapp3.1\CinemaTicket.Domain.csproj.AssemblyReference.cache

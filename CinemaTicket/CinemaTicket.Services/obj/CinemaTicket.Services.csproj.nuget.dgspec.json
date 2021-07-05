@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Services\\CinemaTicket.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\CinemaTicket.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\CinemaTicket.Domain.csproj",
+        "projectName": "CinemaTicket.Domain",
+        "projectPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\CinemaTicket.Domain.csproj",
+        "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Repository\\CinemaTicket.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Repository\\CinemaTicket.Repository.csproj",
+        "projectName": "CinemaTicket.Repository",
+        "projectPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Repository\\CinemaTicket.Repository.csproj",
+        "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\CinemaTicket.Domain.csproj": {
+                "projectPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\CinemaTicket.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Services\\CinemaTicket.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Services\\CinemaTicket.Services.csproj",
+        "projectName": "CinemaTicket.Services",
+        "projectPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Services\\CinemaTicket.Services.csproj",
+        "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\CinemaTicket.Domain.csproj": {
+                "projectPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Domain\\CinemaTicket.Domain.csproj"
+              },
+              "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Repository\\CinemaTicket.Repository.csproj": {
+                "projectPath": "C:\\Users\\Marko\\Desktop\\CinemaTicketWebApplication\\CinemaTicket\\CinemaTicket.Repository\\CinemaTicket.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
